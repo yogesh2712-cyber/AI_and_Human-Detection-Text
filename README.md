@@ -29,3 +29,49 @@ Flask
 HTML / CSS
 
 Pickle (Model Serialization)
+
+🧪 Machine Learning Pipeline
+
+1. Data Collection
+
+AI-generated text
+
+Human-written text
+
+2. Data Cleaning
+
+Remove null rows
+
+Fix label column
+
+Balance dataset
+
+3. Text Preprocessing
+
+Lowercasing
+
+Tokenization
+
+Stopword removal
+
+4. Feature Extraction
+
+TF-IDF Vectorization
+
+5. Model Training
+
+Supervised classification model
+
+Saved using Pickle
+
+6. Model Deployment
+
+Flask-based web application
+
+📊 Model Output
+
+Prediction: AI Generated 🤖 / Human Written 🧑
+
+Confidence Score: Percentage probability
+
+Accuracy: Evaluated using test dataset
